@@ -1,5 +1,5 @@
 {
     "sketch": "TurbididySensorServo.ino",
-    "port": "COM3",
+    "port": "COM4",
     "board": "arduino:avr:uno"
 }
